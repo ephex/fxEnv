@@ -3,7 +3,7 @@ set shiftwidth=2
 set expandtab
 syntax on
 set nu
-colorscheme murphy
+colorscheme morning
 if has("gui_running")
   set columns=124 lines=56
 endif
