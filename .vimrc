@@ -7,7 +7,7 @@ set smartindent
 syntax on
 set nu
 
-colorscheme delek
+colorscheme murphy
 
 set foldmethod=indent
 
